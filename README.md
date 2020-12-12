@@ -28,11 +28,11 @@ R software (any version).
 # **OPTIONS** :  
 1. window_size : The number of fragment ends to be defined as an interaction. Default=400.  
 1. min_reads : The minimum number of reads is required for fragment end to be defined as an observed fragment. Default=2.  
-1. masked_region_length :  +/- 'masked_region_length' from the viewpoint will be masked out. Default=5000000.  
+1. masked_region_length : Near-cis region (+/- 'masked_region_length' from the viewpoint) will be masked out. Default=5000000.  
       
       
 # **USAGE** :  
 Open R software  
 source("/path/to/LongRangeInteraction.R")  
 example_data="/path/to/example_data.txt"  
-LongRangeInteraction(filename=example_data,vp.chr="chr9",vp.pos=21969463,window_size=400,min_reads=2,masked_region_length=5000000)  
+LongRangeInteraction(filename=example_data,vp.chr="chr9",vp.pos=21969726,window_size=400,min_reads=2,masked_region_length=5000000)  
