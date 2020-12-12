@@ -22,8 +22,8 @@ R software (any version).
 
     
     
-1. vp.chr : The viewpoint locating chromosome.  
-1. vp.pos : The position of the viewpoint, could be any coordinate within the viewpoint.  
+1. vp.chr : The chromosome where the viewpoint locates.  
+1. vp.pos : The position of the viewpoint, could be any coordinate inside the viewpoint.  
       
 # **OPTIONS** :  
 1. window_size : The number of fragment ends to be defined as an interaction. Default=400.  
