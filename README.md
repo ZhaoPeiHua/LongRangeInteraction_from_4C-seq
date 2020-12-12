@@ -8,8 +8,7 @@ The R script for detecting long-range interactions (far-cis and trans interactio
   filename : A tab separated text file including the number of mapped 4C-seq reads per fragment end. Below is an example of the text file.    
     chr1|11159|0  
     chr1|12410|0  
-    chr1|12460|0  
-    ...|...|...  
+    chr1|12460|0   
     chr1|1458262|12  
     chr1|1458337|0  
     1st column : Chromosome.    
