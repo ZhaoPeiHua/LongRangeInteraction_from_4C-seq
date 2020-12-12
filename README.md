@@ -10,10 +10,11 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
    * 1st column : Chromosome.    
    * 2nd column : Position of the first restriction enzyme sites in the genome.    
    * 3rd column : Number of reads that start at the first RE sites.    
-   * **The file has to be sorted by chromosome and then by position of the first RE sites in ascending order.**    
+   **The file has to be sorted by chromosome and then by position of the first RE sites in ascending order.**    
     
 1. vp.chr : The viewpoint locating chromosome.  
 1. vp.pos : The position of the viewpoint, could be any coordinate within the viewpoint.  
