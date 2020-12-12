@@ -6,10 +6,10 @@ R software (any version).
       
 # **ARGUMENTS** :  
 1. filename : A tab separated text file including the number of mapped 4C-seq reads per fragment end. Below is an example of the text file.    
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
    * 1st column : Chromosome.    
    * 2nd column : Position of the first restriction enzyme sites in the genome.    
