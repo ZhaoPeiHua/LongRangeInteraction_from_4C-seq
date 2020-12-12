@@ -10,15 +10,15 @@ R software (any version).
    * 2nd column : Position of the first RE sites in the genome.    
    * 3rd column : Number of reads that start at the first RE sites.
 
-   |  Chromosome   |  Position   | Reads |
-   |-----|-----|-----|
-   |chr1  |11159   |0|
-   |chr1  |12410   |0|
-   |chr1  |12460   |0|
-   |...  |...   |...|
-   |chr1  |1457897   |0|
-   |chr1  |1458262   |12|
-   |chr1  |1458337   |0|
+    |  Chromosome   |  Position   | Reads |
+    |-----|-----|-----|
+    |chr1  |11159   |0|
+    |chr1  |12410   |0|
+    |chr1  |12460   |0|
+    |...  |...   |...|
+    |chr1  |1457897   |0|
+    |chr1  |1458262   |12|
+    |chr1  |1458337   |0|
 
     
     
