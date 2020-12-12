@@ -6,8 +6,6 @@ R software (any version).
       
 # **ARGUMENTS** :  
 1. filename : A tab separated text file including the number of mapped 4C-seq reads per fragment end. Below is an example of the text file.    
-    ||
-    - | - | - 
     chr1 | 11159 | 0  
     chr1 | 12410 | 0  
     chr1 | 12460 | 0   
