@@ -34,5 +34,5 @@ R software (any version).
 # **USAGE** :  
 Open R software  
 source("/path/to/LongRangeInteraction.R")  
-example="/path/to/example_data.txt"  
-LongRangeInteraction(filename=example,vp.chr="chr9",vp.pos=21969463,window_size=400,min_reads=2,masked_region_length=5000000)  
+example_data="/path/to/example_data.txt"  
+LongRangeInteraction(filename=example_data,vp.chr="chr9",vp.pos=21969463,window_size=400,min_reads=2,masked_region_length=5000000)  
