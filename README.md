@@ -8,11 +8,11 @@ R software (any version).
 1. filename : A tab separated text file including the number of mapped 4C-seq reads per fragment end. The file has to be sorted by chromosome and then by position of the first RE sites in ascending order. Below is an example of the text file.  
 
 | chr1 | 11159 | 0 |   
-| chr1 | 12410 | 0 | 
-| chr1 | 12460 | 0 | 
-| chr1 | 1457897 | 0 | 
-| chr1 | 1458262 | 12 | 
-| chr1 | 1458337 | 0 | 
+| chr1 | 12410 | 0 |   
+| chr1 | 12460 | 0 |   
+| chr1 | 1457897 | 0 |   
+| chr1 | 1458262 | 12 |   
+| chr1 | 1458337 | 0 |   
 
    * 1st column : Chromosome.    
    * 2nd column : Position of the first restriction enzyme sites in the genome.    
