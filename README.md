@@ -5,7 +5,7 @@ The R script (LongRangeInteraction.R) for detecting long-range interactions (far
 R software (any version).  
       
 # **ARGUMENTS** :  
-1. filename : A tab separated text file including the number of mapped 4C-seq reads per fragment end. The file has to be sorted by chromosome and then by position of the first RE sites in ascending order. Below is an example of the text file.  
+1. filename : A tab separated text file including the number of mapped 4C-seq reads per fragment end. The file has to be sorted by chromosome and then by position of the first restriction enzyme sites in ascending order. Here is an example of the text file.  
 
 |  Chromosome   |  Position   | Reads |
 |-----|-----|-----|
@@ -18,7 +18,7 @@ R software (any version).
 |chr1  |1458337   |0|
 
    * 1st column : Chromosome.    
-   * 2nd column : Position of the first restriction enzyme sites in the genome.    
+   * 2nd column : Position of the first RE sites in the genome.    
    * 3rd column : Number of reads that start at the first RE sites.    
     
 1. vp.chr : The viewpoint locating chromosome.  
