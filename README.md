@@ -11,6 +11,11 @@ R software (any version).
 |-----|-----|-----|
 |chr1  |11159   |0|
 |chr1  |12410   |0|
+|chr1  |12460   |0|
+|...  |...   |...|
+|chr1  |1457897   |0|
+|chr1  |1458262   |12|
+|chr1  |1458337   |0|
 
    * 1st column : Chromosome.    
    * 2nd column : Position of the first restriction enzyme sites in the genome.    
