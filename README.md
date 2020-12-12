@@ -6,11 +6,10 @@ R software (any version).
       
 # **ARGUMENTS** :  
 1. filename : A tab separated text file including the number of mapped 4C-seq reads per fragment end. Below is an example of the text file.    
-    chr1 | 11159 | 0  
-    chr1 | 12410 | 0  
-    chr1 | 12460 | 0   
-    chr1 | 1458262 | 12  
-    chr1 | 1458337 | 0  
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
    * 1st column : Chromosome.    
    * 2nd column : Position of the first restriction enzyme sites in the genome.    
    * 3rd column : Number of reads that start at the first RE sites.    
